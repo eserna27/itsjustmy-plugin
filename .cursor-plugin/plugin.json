@@ -1,0 +1,30 @@
+{
+  "name": "itsjustmy",
+  "displayName": "itsjustmy.blog",
+  "version": "0.1.0",
+  "description": "Let your agent write drafts on itsjustmy.blog from the terminal with the itsjustmy CLI. Drafts by default; you decide when to publish.",
+  "author": {
+    "name": "Emmanuel Serna"
+  },
+  "homepage": "https://itsjustmy.blog/cli",
+  "repository": "https://github.com/eserna27/itsjustmy-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "itsjustmy",
+    "blog",
+    "blogging",
+    "cli",
+    "drafts",
+    "markdown",
+    "writing"
+  ],
+  "category": "productivity",
+  "tags": [
+    "blog",
+    "cli",
+    "writing",
+    "drafts"
+  ],
+  "skills": "./skills/"
+}
